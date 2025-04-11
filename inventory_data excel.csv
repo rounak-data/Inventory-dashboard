@@ -1,0 +1,21 @@
+Product ID,Product Name,Category,Supplier,Current Stock,Reorder Point,Lead Time (Days),Last Purchase Date,Jan Sales,Feb Sales,Mar Sales
+P001,Product_1,Home,Supplier_A,134,90,8,3/22/25,17,63,24
+P002,Product_2,Clothing,Supplier_B,24,97,4,4/5/25,52,44,39
+P003,Product_3,Clothing,Supplier_B,203,99,12,4/2/25,62,88,55
+P004,Product_4,Grocery,Supplier_C,254,58,13,3/22/25,71,45,57
+P005,Product_5,Grocery,Supplier_D,254,97,8,3/30/25,68,67,21
+P006,Product_6,Home,Supplier_C,186,73,8,3/27/25,84,83,15
+P007,Product_7,Clothing,Supplier_C,68,62,11,4/6/25,49,84,45
+P008,Product_8,Clothing,Supplier_D,76,61,13,3/25/25,65,62,81
+P009,Product_9,Clothing,Supplier_A,54,58,12,3/2/25,90,91,62
+P010,Product_10,Grocery,Supplier_D,266,53,8,3/2/25,69,23,72
+P011,Product_11,Electronics,Supplier_A,42,90,3,3/5/25,25,15,68
+P012,Product_12,Clothing,Supplier_C,110,62,14,2/16/25,24,61,32
+P013,Product_13,Grocery,Supplier_B,222,58,9,2/13/25,34,26,36
+P014,Product_14,Electronics,Supplier_A,45,98,7,2/11/25,67,79,38
+P015,Product_15,Home,Supplier_D,216,81,14,3/3/25,95,90,99
+P016,Product_16,Home,Supplier_D,167,94,11,4/3/25,33,57,24
+P017,Product_17,Clothing,Supplier_B,111,58,10,3/27/25,17,71,91
+P018,Product_18,Clothing,Supplier_A,18,61,14,4/4/25,27,27,16
+P019,Product_19,Grocery,Supplier_D,21,80,3,3/16/25,93,21,83
+P020,Product_20,Clothing,Supplier_B,102,91,3,3/31/25,67,71,63
